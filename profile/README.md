@@ -13,12 +13,12 @@ to oppress society from rising up and taking control.</p>
 <p>Our <strong>Freedoms</strong>, should be our choice, and they should be at an equal opportunity for all, no matter where you come from in the world. We can
 use <strong>Technology</strong> to bring about this change, because <strong>Quantum Biological Technology</strong> is a reality, we can control our own path 
 of freedom in a collective world, rather than a <strong>managed</strong> world, where freedom comes at a price.</p>
-<p>To find out more about this project, please visit our <a href="https://blog.metacubic.org">Blog</a></p>
+<p>To find out more about this project, please visit our <a href="https://blog.metacubic.org/hp">Blog</a></p>
 
 ## Useful Links:  
 <ul>
 <li><a href="https://metacubic.org">Website</a></li>
-<li><a href="https://blog.metacubic.org">Blog</a></li>
+<li><a href="https://blog.metacubic.org/hp">Blog</a></li>
 <li><a href="https://api.metacubic.org">Api</a></li>
 </ul>
 <!--
