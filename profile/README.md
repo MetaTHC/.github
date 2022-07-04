@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center" width="100%">
+    <img width="33%" src="./imgs/logo.png"> 
+</p>
+
+## Project MetaTHC
+###### Meta³ HyperCube - HyperCube Blockchain Network
 
 <!--
 
