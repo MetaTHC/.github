@@ -7,6 +7,9 @@
 
 > Libertarianism (from French: libertaire, "libertarian"; from Latin: libertas, "freedom") is a political philosophy that upholds liberty as a core value.
 
+<p>Technology is growing exponentially and far beyond our current understanding. It comes at a very high price and one that many of you take for granted, our
+liberties and freedoms are not by choice, but are chosen for us from <strong>birth</strong>, through indoctrination of many beliefs that are used against and
+to oppress society from rising up and taking control.</p>
 <!--
 
 **Here are some ideas to get you started:**
