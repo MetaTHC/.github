@@ -3,7 +3,9 @@
 </p>
 
 ## Project MetaTHC
-###### Meta³ HyperCube - HyperCube Blockchain Network
+###### Meta³ HyperCube - Fighting the oppression of companies, organisations and governments.
+
+> Libertarianism (from French: libertaire, "libertarian"; from Latin: libertas, "freedom") is a political philosophy that upholds liberty as a core value.
 
 <!--
 
