@@ -3,3 +3,6 @@
 </p>
 
 <h1 align="center" width="100%">Hyper² Cryptographic Network Project</h1>
+
+[NestJS Template]()  
+[Angular 14 Template]()
